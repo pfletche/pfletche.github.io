@@ -6,8 +6,14 @@ My work focuses on developing unmanned aerial systems (UAS) that collect better 
 
 I'm also a volunteer Master Naturalist with the state of Nebraska where I contribute to local conservation, environmental education, and citizen science projects. 
 
-
-
+<p>
+  <a href="https://www.linkedin.com/in/pfletche" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/pfletche" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+</p>
 
 <!--- # DEFAULT TEXT -->
 
