@@ -1,4 +1,9 @@
-## Hi! 
+## **Paul** Fletcher
+
+I'm pursuing a Masters Degree in the Department of Computer Science & Engineering at the University of Nebraska-Lincoln (UNL). I work as a research assistant at the Nebraska Intelligent Mobile Unmanned Systems (NIMBUS) Lab. 
+
+My work focuses on developing unmanned aerial systems (UAS) that collect better data to inform science decision making and create safer human interactions. 
+
 
 You can use the [editor on GitHub](https://github.com/pfletche/pfletche.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
