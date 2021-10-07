@@ -1,4 +1,4 @@
-## Hi! My name's Paul, I study computer science and work with flying robotics (aka drones, aka UAVs, aka etc.).
+## Hi! 
 
 ![M600 at Havelock](img/m600_at_havelock.jpeg)
 
