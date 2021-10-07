@@ -1,6 +1,6 @@
 ## **Paul** Fletcher
 
-I'm a Masters Degree students in the Department of Computer Science & Engineering at the University of Nebraska-Lincoln (UNL). I also work as a research assistant at the Nebraska Intelligent Mobile Unmanned Systems (NIMBUS) Lab. 
+I'm a Masters Degree student in the Department of Computer Science & Engineering at the University of Nebraska-Lincoln (UNL). I also work as a research assistant at the [Nebraska Intelligent Mobile Unmanned Systems (NIMBUS) Lab](https://nimbus.unl.edu/). 
 
 My work focuses on developing unmanned aerial systems (UAS) that collect better data to inform science decision making and create safer human interactions. I am currently researching methods to collect CO2 and H20 data from rainforest canopies in Costa Rica with UAVs. 
 
