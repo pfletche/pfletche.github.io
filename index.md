@@ -4,6 +4,7 @@ I'm pursuing a Masters Degree in the Department of Computer Science & Engineerin
 
 My work focuses on developing unmanned aerial systems (UAS) that collect better data to inform science decision making and create safer human interactions. 
 
+<span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 
 You can use the [editor on GitHub](https://github.com/pfletche/pfletche.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
